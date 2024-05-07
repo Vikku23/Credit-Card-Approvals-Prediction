@@ -1,4 +1,4 @@
-# Credit-Card-Approvals-Prediction
+# Credit Card Approvals Prediction
 
 Predicting Credit Card Approvals using Machine Learning
 Credit cards are one of the most commonly used financial tools. However, obtaining a credit card can be a difficult task for many individuals due to various factors such as income level, and employment status. To help streamline the application process and improve the approval rate, machine learning models can be used to predict credit card approval.
