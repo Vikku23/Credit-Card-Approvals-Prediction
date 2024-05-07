@@ -7,8 +7,11 @@ In this project, we will explore how various factors affect credit card approval
 Key Components:
 
 Data Exploration: The dataset is thoroughly examined to understand its structure, variables, and potential correlations between features affecting credit card approval.
+
 Model Development: Several machine learning algorithms including Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Decision Tree, XGBoost, and Random Forest are implemented to predict credit card approvals.
+
 Model Performance Evaluation: The performance of each model is assessed using accuracy metrics, comparing their effectiveness in predicting credit card approvals.
+
 Hyperparameter Tuning: GridSearchCV is employed to fine-tune the Random Forest model, optimizing its parameters to achieve even higher accuracy.
 
 
